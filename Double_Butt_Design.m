@@ -49,6 +49,11 @@ bearing_strength = vdpb / 1.25 ;
 
 display(bearing_strength);
 
+bolt_value = min(shearing_strength,bearing_strength);
+
+
+
+
 
 
 
